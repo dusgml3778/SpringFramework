@@ -2,7 +2,7 @@ package com.app.izumo;
 
 import java.lang.reflect.Method;
 
-public class Main {
+public class PrivateMethodCall {
 
 	public static void main(String[] args) throws Exception {
 		
